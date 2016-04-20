@@ -9,7 +9,7 @@
       "title": "Mobirise"
     },
     "publishType": "local",
-    "publishPath": "file:///C:/Users/Benzer/Desktop/sdgh"
+    "publishPath": "file:///C:/Users/Benzer/Documents/GitHub/benzer95.github.io"
   },
   "pages": {
     "index.html": {
@@ -83,7 +83,7 @@
         {
           "_name": "buttons1",
           "_anchor": "buttons1-8",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"characters.html\" data-toolbar=\"-mbrBtnMove\">CHARACTERS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"log.html\" data-toolbar=\"-mbrBtnMove\">QUEST LOG</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"log.html\" data-toolbar=\"-mbrBtnMove\">MAP</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"characters.html\" data-toolbar=\"-mbrBtnMove\">CHARACTERS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"log.html\" data-toolbar=\"-mbrBtnMove\">QUEST LOG</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"map.html\" data-toolbar=\"-mbrBtnMove\">MAP</a> "
         }
       ]
     },
