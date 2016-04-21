@@ -562,7 +562,7 @@
         {
           "_name": "buttons1",
           "_anchor": "buttons1-23",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dw_characters.html\" data-toolbar=\"-mbrBtnMove\">CHARACTERS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"coc_log.html\" data-toolbar=\"-mbrBtnMove\">QUEST LOG</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dw_map.html\" data-toolbar=\"-mbrBtnMove\">MAP</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dw_characters.html\" data-toolbar=\"-mbrBtnMove\">CHARACTERS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dw_log.html\" data-toolbar=\"-mbrBtnMove\">QUEST LOG</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dw_map.html\" data-toolbar=\"-mbrBtnMove\">MAP</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>   "
         },
         {
           "_name": "buttons1",
