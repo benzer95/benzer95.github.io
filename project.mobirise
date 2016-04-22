@@ -78,14 +78,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-15",
           "_params": {
-            "logo": false,
-            "showBrand": false,
-            "showButtons": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": false,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
           },
           "logo": {
             "image": {
@@ -119,17 +119,12 @@
         },
         {
           "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header3-14",
-          "title": "Title",
+          "_anchor": "header3-24",
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
           "_params": {
             "showMeta": true
           },
-          "meta": "Lormem ipsum"
+          "meta": "By John Smith posted July 30, 2015"
         }
       ]
     },
@@ -203,14 +198,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-15",
           "_params": {
-            "logo": false,
-            "showBrand": false,
-            "showButtons": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": false,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
           },
           "logo": {
             "image": {
@@ -239,6 +234,15 @@
           "title": "Characters",
           "_params": {
             "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "_name": "header3",
+          "_anchor": "header3-25",
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "_params": {
+            "showMeta": true
           },
           "meta": "By John Smith posted July 30, 2015"
         }
@@ -272,14 +276,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-13",
           "_params": {
-            "logo": false,
-            "showBrand": false,
-            "showButtons": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": false,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
           },
           "logo": {
             "image": {
@@ -341,14 +345,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-17",
           "_params": {
-            "logo": false,
-            "showBrand": false,
-            "showButtons": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": false,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
           },
           "logo": {
             "image": {
